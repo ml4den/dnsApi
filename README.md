@@ -1,5 +1,4 @@
 # dnsApi
-## Description
 dnsApi is a node.js application that acts as a HTTP interface for DNS.
 
 ## Record Types
