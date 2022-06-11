@@ -1,5 +1,10 @@
 # dnsApi
-dnsApi is a node.js application that acts as a HTTP interface for DNS.
+dnsApi is a node.js application that acts as an HTTP interface for DNS.
+
+A DNS API running over HTTP can be useful in a variety of scenarios:
+- Make queries when DNS isn't directly available, e.g. in certain restricted or serverless environments
+- Verify records before provisioning a service
+- Get around firewall or geo-blocking limitations
 
 ## Record Types
 - [A](https://dnsapi-zx6tedjug0jg.runkit.sh/api/a/example.com)
