@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/ml4den/dnsApi#readme",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.18.2",
     "dns": "0.2.2",
-    "joi": "17.4.2"
+    "joi": "17.7.0"
 }
 }
